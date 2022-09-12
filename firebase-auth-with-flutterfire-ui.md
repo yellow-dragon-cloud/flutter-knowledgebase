@@ -41,3 +41,25 @@ Future<void> main() async {
   runApp(MyApp());
 }
 ```
+
+### 6. Add FlutterFire UI
+```bash
+flutter pub add flutterfire_ui
+```
+
+### 7. Install Firestore
+```bash
+flutter pub add cloud_firestore
+```
+
+### 8. Install Firestore ODM
+```bash
+flutter pub add cloud_firestore_odm
+flutter pub add json_annotation
+```
+
+```bash
+flutter pub add --dev build_runner
+flutter pub add --dev cloud_firestore_odm_generator
+flutter pub add --dev json_serializable
+```
