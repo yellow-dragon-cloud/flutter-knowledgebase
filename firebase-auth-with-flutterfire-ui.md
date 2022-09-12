@@ -53,6 +53,8 @@ flutter pub add cloud_firestore
 ```
 
 ### 8. Install Firestore ODM
+
+See [Firestore ODM Documentation](https://github.com/firebase/flutterfire/blob/master/packages/cloud_firestore_odm/README.md)
 ```bash
 flutter pub add cloud_firestore_odm
 flutter pub add json_annotation
